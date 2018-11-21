@@ -1,0 +1,35 @@
+Using Moore Drive
+Number of Train Samples: 10000
+	Size: 15x15
+Number of Validation Samples: 2000
+	Size: 15x15
+Number of Test Samples: 2000
+	Size: 15x15
+
+------------- Evaluating final model -------------
+
+Train performance:
+Loss       | Err        | % Optimal  | % Success 
+0.562      | 0.337      | 0.967      | 0.982     
+
+Validation performance:
+Loss       | Err        | % Optimal  | % Success 
+0.590      | 0.349      | 0.952      | 0.970     
+
+Test performance:
+Loss       | Err        | % Optimal  | % Success 
+0.584      | 0.345      | 0.952      | 0.971     
+
+------------- Evaluating best model -------------
+
+Train performance:
+Loss       | Err        | % Optimal  | % Success 
+0.562      | 0.337      | 0.967      | 0.982     
+
+Validation performance:
+Loss       | Err        | % Optimal  | % Success 
+0.590      | 0.349      | 0.952      | 0.970     
+
+Test performance:
+Loss       | Err        | % Optimal  | % Success 
+0.584      | 0.345      | 0.952      | 0.971     

@@ -1,0 +1,35 @@
+Using NEWS Drive
+Number of Train Samples: 10000
+	Size: 15x15
+Number of Validation Samples: 2000
+	Size: 15x15
+Number of Test Samples: 2000
+	Size: 15x15
+
+------------- Evaluating final model -------------
+
+Train performance:
+Loss       | Err        | % Optimal  | % Success 
+0.343      | 0.195      | 0.890      | 0.912     
+
+Validation performance:
+Loss       | Err        | % Optimal  | % Success 
+0.366      | 0.208      | 0.869      | 0.897     
+
+Test performance:
+Loss       | Err        | % Optimal  | % Success 
+0.366      | 0.210      | 0.868      | 0.894     
+
+------------- Evaluating best model -------------
+
+Train performance:
+Loss       | Err        | % Optimal  | % Success 
+0.343      | 0.195      | 0.890      | 0.912     
+
+Validation performance:
+Loss       | Err        | % Optimal  | % Success 
+0.366      | 0.208      | 0.869      | 0.897     
+
+Test performance:
+Loss       | Err        | % Optimal  | % Success 
+0.366      | 0.210      | 0.868      | 0.894     
